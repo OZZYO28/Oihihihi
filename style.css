@@ -1,0 +1,25 @@
+a {
+    font-size: 200px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+p {    font-size: 11px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;}
+    
+body {
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif ;
+    background-color: black;
+}
+.smt {
+    background-image: url(true\ chum`s\ bane.jpg);
+    background-position: center;
+    background-size: cover;
+}
